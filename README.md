@@ -9,6 +9,9 @@ I build the computational tools my research needs, and production software by di
   analysis for micro-CT scans of porous biomaterials (Python, PoreSpy, OpenPNM). MIT licensed, archived on
   Zenodo ([doi:10.5281/zenodo.20308262](https://doi.org/10.5281/zenodo.20308262)); the method behind
   *Materials Today Bio* 2026;39:103377.
+- [microct-superresolution](https://github.com/andtoni/microct-superresolution): deep-learning
+  super-resolution and segmentation for micro-CT of porous scaffolds (PyTorch, nnU-Net, Snakemake).
+  Research code for a manuscript in preparation.
 
 **Software engineering**
 
